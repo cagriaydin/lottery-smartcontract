@@ -14,8 +14,7 @@ const deploy = async () => {
 
   const result = await new web3.eth.Contract(JSON.parse(interface))
     .deploy({
-        data: bytecode,
-        arguments: ['This is a Smart Contract!']
+        data: bytecode
       })
     .send({
       gas: '1000000',
