@@ -1,6 +1,6 @@
 # Lottery Smart Contract
 
-Join the lottery and get the prize from the ether pool!
+Join the lottery and get the chance to win prizes from the ether pool!
 
 <img src="https://user-images.githubusercontent.com/19540661/37755479-b0331bd8-2db6-11e8-9d55-e29d11083c35.PNG" width="400">
 
