@@ -1,5 +1,7 @@
 # Lottery Smart Contract
 
+Join the lottery and get the prize from the ether pool!
+
 <img src="https://user-images.githubusercontent.com/19540661/37755479-b0331bd8-2db6-11e8-9d55-e29d11083c35.PNG" width="400">
 
 - [Remix IDE](https://remix.ethereum.org/)
